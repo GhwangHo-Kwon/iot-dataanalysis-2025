@@ -381,16 +381,27 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})
 - 파이토치로 Fashion-MNIST 실습
 - Keras CNN과 비교해서 학습할 것!
 
-- -[주피터노트북](./day06/mldl02_파이토치_합성곱신경망.ipynb)
+- [주피터노트북](./day06/mldl02_파이토치_합성곱신경망.ipynb)
+
+    <img src="./image/ml0020.png" width="700">
 
 ## 7일차
 
 ### 토이프로젝트
+- Cats and Dogs 이진분류 실습
+- 캐글에서 코딩하는 법
 
-### YOLO
+- [주피터노트북](./day07/mldl01_Cats_and_Dogs_이진분류.ipynb)
+
+- 훈련세트로 예측한 결과
+
+    <img src="./image/ml0022.png" width="700">
+
+- Kaggle 참조노트북
+    - [주피터노트북](./day07/zzaebok-cat-vs-dog.ipynb)
 
 ## 8일차
 
-### 토이프로젝트
+### YOLO
 
 ### 코딩테스트
